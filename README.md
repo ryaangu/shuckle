@@ -3,11 +3,14 @@
 ## The Shuckle Programming Language
 **Shuckle** is a simple dynamically-typed language. It outputs a human readable [**C++**](https://en.wikipedia.org/wiki/C%2B%2B) code that tries to be fully statically-typed and faster than the [**Shuckle Pokémon**](https://www.pokemon.com/us/pokedex/shuckle).
 
-## Example: Hello, World!
+## Example:
 ```js
 function main()
 {
-    println("Hello, World!");
+    let number = 1;
+
+    println("string");
+    println(number);
 }
 ```
 
@@ -17,7 +20,9 @@ function main()
 
 int main()
 {
-    puts("Hello, World!");
+    int number = 1;
+    puts("string");
+    printf("%d\n", number);
 }
 ```
 
