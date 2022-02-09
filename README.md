@@ -1,7 +1,7 @@
 <img src="media/shuckle.gif">
 
 ## The Shuckle Programming Language
-**Shuckle** is a simple dynamically-typed language that tries to be faster than the [**Shuckle Pokémon**](https://www.pokemon.com/us/pokedex/shuckle). It outputs a human readable [**C++**](https://en.wikipedia.org/wiki/C%2B%2B) code that tries to be fully statically-typed.
+**Shuckle** is a simple dynamically-typed language. It outputs a human readable [**C++**](https://en.wikipedia.org/wiki/C%2B%2B) code that tries to be fully statically-typed and faster than the [**Shuckle Pokémon**](https://www.pokemon.com/us/pokedex/shuckle).
 
 ## Example: Hello, World!
 ```js
