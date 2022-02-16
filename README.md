@@ -21,8 +21,8 @@ function main()
 int main()
 {
     int number = 1;
-    puts("string");
-    printf("%d\n", number);
+    print(io_out, "string", '\n');
+    print(io_out, number, '\n');
 }
 ```
 
