@@ -5,9 +5,12 @@
 
 ## Example:
 ```
+include "std/io.se"
+
 define main
 {
-    return 0;
+    print "Hello, World!"
+    return 0
 }
 ```
 
