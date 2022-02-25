@@ -9,8 +9,8 @@ include "std/io.se"
 
 define main
 {
-    print "Hello, World!"
-    return 0
+    "Hello, World!" print
+    0 return
 }
 ```
 
