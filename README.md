@@ -1,28 +1,13 @@
 <img src="media/shuckle.gif">
 
 ## The Shuckle Programming Language
-**Shuckle** is a simple dynamically-typed language. It outputs a human readable [**C++**](https://en.wikipedia.org/wiki/C%2B%2B) code that tries to be fully statically-typed and faster than the [**Shuckle Pokémon**](https://www.pokemon.com/us/pokedex/shuckle).
+**Shuckle** is a simple dynamically typed, stack-oriented programming language. It outputs C files that tries to be faster than the [**Shuckle Pokémon**](https://www.pokemon.com/us/pokedex/shuckle).
 
 ## Example:
-```js
-function main()
-{
-    let number = 1;
-
-    println("string");
-    println(number);
-}
 ```
-
-#### Expected C++ output:
-```cpp
-#include <stdio.h>
-
-int main()
+define main
 {
-    int number = 1;
-    puts("string");
-    printf("%d\n", number);
+    return 0;
 }
 ```
 
