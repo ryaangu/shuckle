@@ -19,6 +19,7 @@ int main()
 {
     stack.push("Hello, World!");
     print(stack.pop());
+    stack.push(0);
     return stack.pop();
 }
 ```
