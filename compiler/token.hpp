@@ -1,15 +1,19 @@
-#ifndef COMPILER_TOKEN_H
-#define COMPILER_TOKEN_H
+#ifndef COMPILER_TOKEN_HPP
+#define COMPILER_TOKEN_HPP
 
-#include "types.h"
+#include "types.hpp"
 
 enum 
 {
     token_end,
     token_error,
 
+    token_string,
     token_number,
     token_identifier,
+
+    token_lcurly,
+    token_rcurly,
 
     token_define,
 
@@ -18,7 +22,7 @@ enum
     token_return,
 };
 
-typedef struct
+struct Token
 {
     const char *start;
 
@@ -26,6 +30,6 @@ typedef struct
     uint length;
     uint line;
     uint column;
-} Token;
+};
 
 #endif
