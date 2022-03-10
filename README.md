@@ -4,7 +4,7 @@
 **Shuckle** is a small statically typed, S-expression programming language.
 
 ## Example:
-```
+```clj
 (function (main i32)
     ("hello!" print)
     0
