@@ -7,6 +7,7 @@
 ```
 (function (main i32)
     ("hello!" print)
+    0
 )
 ```
 
