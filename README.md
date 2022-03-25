@@ -1,13 +1,12 @@
 <img src="media/shuckle.gif">
 
 ## The Shuckle Programming Language
-**Shuckle** is a small statically typed, S-expression programming language.
+**Shuckle** is a small dynamically typed, S-expression programming language. It can output to many backends (C, JavaScript, etc) and also custom backends.
 
 ## Example:
 ```clj
-(function (main i32)
-    ("hello!" print)
-    0
+(function main
+    (return 0)
 )
 ```
 
