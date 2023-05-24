@@ -1,0 +1,9 @@
+# ninja log v5
+6	101	7046090309249862	CMakeFiles/shuckle.dir/source/compiler/scanner.cpp.obj	9d2df8732831888c
+13	104	7046090309529918	CMakeFiles/shuckle.dir/source/compiler/source_file.cpp.obj	f4ec886c3358948f
+36	144	7046090309976853	CMakeFiles/shuckle.dir/source/core/string.cpp.obj	a5e2694edd8ee5c1
+28	165	7046090310186634	CMakeFiles/shuckle.dir/source/core/memory/default/memory.cpp.obj	b763188a0e19af45
+5	99	7052066929488974	CMakeFiles/shuckle.dir/source/globals.cpp.obj	80ac257275f0a6a6
+20	185	7046090310388445	CMakeFiles/shuckle.dir/source/core/console/default/console.cpp.obj	668e5332150edf7e
+16	168	7052066930206328	CMakeFiles/shuckle.dir/source/main.cpp.obj	7fbb82646d1ce612
+168	383	7052066932027854	shuckle.exe	a4db4642c16826ca

@@ -5,7 +5,7 @@
 
 ## Example:
 ```clj
-(function main
+(function (main)
     (push "Hello, World")
     (print)
 )

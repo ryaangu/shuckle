@@ -1,0 +1,3 @@
+C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build/CMakeFiles/shuckle.dir
+C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build/CMakeFiles/edit_cache.dir
+C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build/CMakeFiles/rebuild_cache.dir

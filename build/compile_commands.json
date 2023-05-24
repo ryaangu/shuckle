@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/source -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\shuckle.dir\\source\\compiler\\scanner.cpp.obj -c C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\compiler\\scanner.cpp",
+  "file": "C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\compiler\\scanner.cpp",
+  "output": "CMakeFiles\\shuckle.dir\\source\\compiler\\scanner.cpp.obj"
+},
+{
+  "directory": "C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/source -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\shuckle.dir\\source\\compiler\\source_file.cpp.obj -c C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\compiler\\source_file.cpp",
+  "file": "C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\compiler\\source_file.cpp",
+  "output": "CMakeFiles\\shuckle.dir\\source\\compiler\\source_file.cpp.obj"
+},
+{
+  "directory": "C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/source -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\shuckle.dir\\source\\core\\console\\default\\console.cpp.obj -c C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\core\\console\\default\\console.cpp",
+  "file": "C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\core\\console\\default\\console.cpp",
+  "output": "CMakeFiles\\shuckle.dir\\source\\core\\console\\default\\console.cpp.obj"
+},
+{
+  "directory": "C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/source -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\shuckle.dir\\source\\core\\memory\\default\\memory.cpp.obj -c C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\core\\memory\\default\\memory.cpp",
+  "file": "C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\core\\memory\\default\\memory.cpp",
+  "output": "CMakeFiles\\shuckle.dir\\source\\core\\memory\\default\\memory.cpp.obj"
+},
+{
+  "directory": "C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/source -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\shuckle.dir\\source\\core\\string.cpp.obj -c C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\core\\string.cpp",
+  "file": "C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\core\\string.cpp",
+  "output": "CMakeFiles\\shuckle.dir\\source\\core\\string.cpp.obj"
+},
+{
+  "directory": "C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/source -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\shuckle.dir\\source\\globals.cpp.obj -c C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\globals.cpp",
+  "file": "C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\globals.cpp",
+  "output": "CMakeFiles\\shuckle.dir\\source\\globals.cpp.obj"
+},
+{
+  "directory": "C:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/ryaan/OneDrive/Documentos/GitHub/ryaangu/shuckle/source -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\shuckle.dir\\source\\main.cpp.obj -c C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\main.cpp",
+  "file": "C:\\Users\\ryaan\\OneDrive\\Documentos\\GitHub\\ryaangu\\shuckle\\source\\main.cpp",
+  "output": "CMakeFiles\\shuckle.dir\\source\\main.cpp.obj"
+}
+]
